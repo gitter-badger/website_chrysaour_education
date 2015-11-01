@@ -21,4 +21,3 @@ $(document).ready(function(){
     $("#footerbar").html(data);
   });
 });
-
